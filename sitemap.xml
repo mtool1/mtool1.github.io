@@ -1,36 +1,377 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <!-- Homepage -->
-  <url>
-    <loc>https://mtool1.github.io/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/?lang=hi"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/?lang=es"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://mtool1.github.io/"/>
-    <lastmod>2026-03-12</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <!-- Static Pages -->
-  <url>
-    <loc>https://mtool1.github.io/about.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/about.html"/>
-    <xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/about.html?lang=hi"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/about.html?lang=es"/>
-    <lastmod>2026-03-12</lastmod>
-    <priority>0.5</priority>
-  </url>
 
-  <!-- Tools -->
-  <url><loc>https://mtool1.github.io/tools/word-counter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/word-counter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/word-counter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/word-counter.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/password-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/password-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/password-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/password-generator.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/json-formatter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/json-formatter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/json-formatter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/json-formatter.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/base64-encoder.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/base64-encoder.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/base64-encoder.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/base64-encoder.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/uuid-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/uuid-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/uuid-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/uuid-generator.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/image-compressor.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/image-compressor.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/image-compressor.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/image-compressor.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/image-resizer.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/image-resizer.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/image-resizer.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/image-resizer.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/age-calculator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/age-calculator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/age-calculator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/age-calculator.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/unit-converter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/unit-converter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/unit-converter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/unit-converter.html?lang=es"/><priority>0.8</priority></url>
-  <url><loc>https://mtool1.github.io/tools/lorem-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/lorem-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/lorem-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/lorem-generator.html?lang=es"/><priority>0.8</priority></url>
+<url>
+  <loc>https://mtool1.github.io/</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/index.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/about.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/contact.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/privacy.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/category-text-tools.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/category-image-tools.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/category-developer-tools.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/category-security-tools.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/word-counter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/case-converter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/remove-duplicate-lines.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/text-reverser.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/upsidedown-text.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/morse-code-translator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/binary-to-text.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/text-to-binary.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/remove-line-breaks.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/slug-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/line-counter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/sort-text-lines.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/lorem-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/text-to-image.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/markdown-to-html.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/html-to-markdown.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/text-repeater.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/add-line-numbers.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/text-replacer.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/remove-white-spaces.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/image-compressor.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/image-resizer.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/hex-to-rgb.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/rgb-to-hex.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/image-to-base64.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/base64-to-image.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/svg-to-png.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/png-to-jpg.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/jpg-to-png.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/favicon-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/image-cropper.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/webp-to-jpg.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/json-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/base64-encoder.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/uuid-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/html-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/css-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/js-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/xml-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/sql-formatter.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/yaml-to-json.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/json-to-yaml.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/json-to-csv.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/csv-to-json.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/url-encoder-decoder.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/html-entities.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/jwt-decoder.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/crontab-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/regex-tester.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/css-gradient-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/css-box-shadow.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/css-border-radius.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/js-minifier.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/css-minifier.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/html-minifier.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/color-picker.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/password-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/md5-hash.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/sha1-hash.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/sha256-hash.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/sha512-hash.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/htaccess-generator.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/password-strength.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mtool1.github.io/tools/aes-encryption.html</loc>
+  <lastmod>2026-03-12T18:26:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
