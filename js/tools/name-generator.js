@@ -1,0 +1,1 @@
+const names=['Aria','Milo','Nova','Leo','Zara','Kai','Luna']; const c=document.getElementById('app-content'); c.innerHTML='<button id="gen">Generate Name</button><p id="out"></p>'; document.getElementById('gen').addEventListener('click',()=>{document.getElementById('out').textContent=names[Math.floor(Math.random()*names.length)];});

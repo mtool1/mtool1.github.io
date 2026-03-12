@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Homepage -->
+  <url>
+    <loc>https://mtool1.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/?lang=es"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://mtool1.github.io/"/>
+    <lastmod>2026-03-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Static Pages -->
+  <url>
+    <loc>https://mtool1.github.io/about.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/about.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/about.html?lang=hi"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/about.html?lang=es"/>
+    <lastmod>2026-03-12</lastmod>
+    <priority>0.5</priority>
+  </url>
+
+  <!-- Tools -->
+  <url><loc>https://mtool1.github.io/tools/word-counter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/word-counter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/word-counter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/word-counter.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/password-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/password-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/password-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/password-generator.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/json-formatter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/json-formatter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/json-formatter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/json-formatter.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/base64-encoder.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/base64-encoder.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/base64-encoder.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/base64-encoder.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/uuid-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/uuid-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/uuid-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/uuid-generator.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/image-compressor.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/image-compressor.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/image-compressor.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/image-compressor.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/image-resizer.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/image-resizer.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/image-resizer.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/image-resizer.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/age-calculator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/age-calculator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/age-calculator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/age-calculator.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/unit-converter.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/unit-converter.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/unit-converter.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/unit-converter.html?lang=es"/><priority>0.8</priority></url>
+  <url><loc>https://mtool1.github.io/tools/lorem-generator.html</loc><xhtml:link rel="alternate" hreflang="en" href="https://mtool1.github.io/tools/lorem-generator.html"/><xhtml:link rel="alternate" hreflang="hi" href="https://mtool1.github.io/tools/lorem-generator.html?lang=hi"/><xhtml:link rel="alternate" hreflang="es" href="https://mtool1.github.io/tools/lorem-generator.html?lang=es"/><priority>0.8</priority></url>
+</urlset>

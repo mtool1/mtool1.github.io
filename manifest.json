@@ -1,0 +1,22 @@
+{
+  "name": "MegaTools - Professional Online Browser Tools",
+  "short_name": "MegaTools",
+  "description": "Access 200+ fast, private, and free online browser tools. All tools run 100% in your browser.",
+  "start_url": "index.html",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "icons/icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

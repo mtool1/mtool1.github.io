@@ -1,0 +1,2 @@
+const container=document.getElementById('app-content'); container.innerHTML='<textarea id="css" rows="8" placeholder="Paste CSS"></textarea><button id="min">Minify CSS</button><textarea id="minified" rows="8" readonly></textarea>';
+ document.getElementById('min').addEventListener('click',()=>{const css=document.getElementById('css').value; const min=css.replace(//*[^*]**+([^/*][^*]**+)*//g,'').replace(/s+/g,' ').replace(/s*([{};:,])s*/g,'$1').trim();document.getElementById('minified').value=min;});

@@ -1,0 +1,1 @@
+const c=document.getElementById('app-content'); c.innerHTML='<input id="color" type="color" value="#0066cc"/><p id="out"></p>'; document.getElementById('color').addEventListener('input',e=>{document.getElementById('out').textContent='Color: '+e.target.value;});

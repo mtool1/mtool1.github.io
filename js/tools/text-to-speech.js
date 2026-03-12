@@ -1,0 +1,1 @@
+const c=document.getElementById('app-content'); c.innerHTML='<textarea id="text" rows="4"></textarea><button id="speak">Speak</button>'; document.getElementById('speak').addEventListener('click',()=>{ const utter = new SpeechSynthesisUtterance(document.getElementById('text').value); speechSynthesis.speak(utter);});

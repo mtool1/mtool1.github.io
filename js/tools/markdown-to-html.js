@@ -1,0 +1,2 @@
+const c=document.getElementById('app-content'); c.innerHTML='<textarea id="md" rows="8"></textarea><button id="conv">Convert</button><div id="out"></div>'; document.getElementById('conv').addEventListener('click',()=>{ const text=document.getElementById('md').value.replace(/^### (.*)$/mg,'<h3>$1</h3>').replace(/^## (.*)$/mg,'<h2>$1</h2>').replace(/^# (.*)$/mg,'<h1>$1</h1>').replace(/**(.*?)**/g,'<strong>$1</strong>').replace(/*(.*?)*/g,'<em>$1</em>').replace(/
+/g,'<br>'); document.getElementById('out').innerHTML=text; });
